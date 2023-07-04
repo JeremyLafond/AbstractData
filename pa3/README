@@ -1,0 +1,39 @@
+/*
+Jeremy Lafond
+jalafond
+pa3
+*/
+List.java
+-------------------------------
+Modified List class from pa1
+-------------------------------
+
+ListTest.java
+----------
+Tests List
+----------
+
+Matrix.java
+----------------
+Matrix class ADT
+----------------
+
+MatrixTest.java 
+------------
+Tests Matrix
+------------
+
+Sparse.java 
+---------------------------------------------------------------------------
+Matrix Client: Takes input file, calls methods, puts results in output file
+---------------------------------------------------------------------------
+
+Makefile
+----------------------------------------------
+Makes an executable jar file and cleans target
+----------------------------------------------
+
+README
+--------------------
+Describes files used
+--------------------

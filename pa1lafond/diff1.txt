@@ -1,0 +1,15 @@
+--- outfile1.txt	2017-10-10 00:12:23.000000001 -0700
++++ model-outfile1.txt	2017-10-10 00:12:17.000000001 -0700
+@@ -0,0 +1,12 @@
++eight
++eleven
++five
++four
++nine
++one
++seven
++six
++ten
++three
++twelve
++two

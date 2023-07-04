@@ -1,0 +1,45 @@
+/*
+Jeremy Lafond
+jalafond
+pa5
+*/
+
+List.h
+---------------------------
+header file for list module
+---------------------------
+
+List.c
+-----------
+list module
+-----------
+
+Graph.h
+----------------------------
+header file for graph module
+----------------------------
+
+Graph.c
+------------
+graph module
+------------
+
+GraphTest.c
+-----------
+tests graph
+-----------
+
+FindComponents.c
+------------------------------------------------
+Finds stronlgy connected components of the graph
+------------------------------------------------
+
+makefile
+-------------------------------------
+compiles files and gives clean target
+-------------------------------------
+
+README
+--------------------
+Describes files used
+--------------------
